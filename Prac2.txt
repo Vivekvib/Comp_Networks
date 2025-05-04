@@ -1,3 +1,5 @@
+# To study and perform PC to PC communication using ethernet
+
 Select 2 PC Connect them through (Copper Cross Wire) Fastethernet
 Double click PC0
 Configure-> FastEthernet: Ip4V Address-192.168.23.1
