@@ -1,4 +1,5 @@
-To study basic network command and network configuration commands
+# To study basic network command and network configuration commands
+
 4: pc
 2: 2960 switch (Miscellaneous)
 1: 1941 Router (Network Devices)
