@@ -9,3 +9,4 @@ Router -> Config-> Port Status: On
 Lap1 -> Desktop-> IP Config-> Default Gateway: 192.167.1.1
 
 Lap2 -> Desktop-> IP Config-> Default Gateway: 192.167.2.1
+Send a PDU Message
